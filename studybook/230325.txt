@@ -1,7 +1,0 @@
-NOTE: 비동기와 동기의 차이
-- 비동기 프로그래밍은 웹 어플리케이션 만드는 데 있어서 필수적인 매커니즘이다.
-- https://velog.io/@slobber/%EB%8F%99%EA%B8%B0%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98-%EC%B0%A8%EC%9D%B4
-
-NOTE: Ajax
-- 서버 즉, 네트워크 너머에 있는 데이터를 가져오는 도구
-- https://velog.io/@say_ye/JS-Ajax-Json-XMLHttpRequest
